@@ -7,4 +7,5 @@
     <dimen name="text_size_total_lagest">60sp</dimen>
     <dimen name="text_size_total_small">40sp</dimen>
     <dimen name="padding">20dp</dimen>
+    <dimen name="width_switch">66dp</dimen>
 </resources>
