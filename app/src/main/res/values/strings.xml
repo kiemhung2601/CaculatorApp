@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CaculatorApp</string>
+    <string name="_number0">0</string>
+    <string name="_number1">1</string>
+    <string name="_number2">2</string>
+    <string name="_number3">3</string>
+    <string name="_number4">4</string>
+    <string name="_number5">5</string>
+    <string name="_number6">6</string>
+    <string name="_number7">7</string>
+    <string name="_number8">8</string>
+    <string name="_number9">9</string>
+    <string name="c">C</string>
+    <string name="divide">÷</string>
+    <string name="percent">%</string>
+    <string name="x">x</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+</resources>
